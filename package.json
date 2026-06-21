@@ -15,8 +15,12 @@
     "mineflayer": "^4.34.0",
     "mineflayer-pathfinder": "^2.1.1"
   }
-}
-"dependencies": {
-  "mineflayer": "^4.20.0",
-  "minecraft-protocol": "latest"
+{
+  "name": "your-bot-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.20.0",
+    "minecraft-protocol": "latest"
+  }
 }
